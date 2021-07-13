@@ -1,0 +1,40 @@
+.Head{
+    width:100%;
+    margin:0px;
+    font-size: 30px;
+    box-shadow: 5px 5px 5px rgb(61, 132, 245);
+}
+.heading_div{
+    box-shadow: 5px 5px 5px rgb(17, 28, 46);
+    background-color: mediumblue;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+.headin_div2{
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.g{
+    font-size: 25px;
+    box-shadow: 5px 5px 10px black;
+}
+.footer{
+    text-align: center;
+    background-color: skyblue;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+Canvas{
+    border:10px solid;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-color: red;
+    border-left-color: darkblue;
+    border-right-color: darkgreen;
+    border-top-style: dashed;
+    border-top-color: gold;
+    margin-top: 150px;
+}
